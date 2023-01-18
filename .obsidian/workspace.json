@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/Format Specifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/Format Specifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/Format Specifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lang/C/Format Specifier.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "2f7a028905919bce",
   "lastOpenFiles": [
-    "Lang/C/README.md",
+    "Lang/C/포인터.md",
     "Lang/C/자료형.md",
     "Lang/C/문자열.md",
-    "Lang/C/포인터.md",
-    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
-    "Lang/C/Format Specifier.md",
-    "Lang/C/scanf 함수.md",
     "Lang/C/널 문자.md",
+    "Lang/C/scanf 함수.md",
+    "Lang/C/README.md",
+    "Lang/C/Format Specifier.md",
+    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
     "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
-    "README.md"
+    "Assets/Pasted image 20230119014452.png"
   ]
 }
