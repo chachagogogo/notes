@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/C/Data Types.md",
+                "file": "Lang/C/자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/C/Data Types.md",
+                "file": "Lang/C/자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,19 @@
             }
           },
           {
-            "id": "021c78b06efc6794",
+            "id": "9fafdf3485ca09b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/C/널 문자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a607cc159f5d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +80,31 @@
             }
           },
           {
-            "id": "9e183dff03af2f47",
+            "id": "15c1c6c652a2787b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/문자열.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92442c752b99bb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/C/scanf 함수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/scanf 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lang/C/scanf 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lang/C/scanf 함수.md"
               }
             }
           },
@@ -217,12 +241,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e183dff03af2f47",
+  "active": "92442c752b99bb02",
   "lastOpenFiles": [
+    "Lang/C/문자열.md",
+    "Lang/C/자료형.md",
     "Lang/C/포인터.md",
-    "Lang/C/널 문자.md",
-    "Lang/C/Data Types.md",
     "Lang/C/Format Specifier.md",
-    "Templates/Note Templete.md"
+    "Lang/C/널 문자.md",
+    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
+    "Lang/C/scanf 함수.md",
+    "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
+    "Assets/Pasted image 20230119001915.png",
+    "README.md"
   ]
 }

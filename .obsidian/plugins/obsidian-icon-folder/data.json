@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFile",
+      "FasLanguage",
       "SiTypescript",
       "SiReact",
-      "SiJavascript",
-      "SiHtml5",
-      "SiCss3"
+      "SiJavascript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,12 +22,13 @@
     }
   },
   "Templates": "FasShapes",
-  "Lang": "RiCode-view",
+  "Lang": "FasLanguage",
   "Lang/C": "SiC",
   "Web Dev": "FasGlobe",
   "Web Dev/CSS": "SiCss3",
   "Web Dev/HTML": "SiHtml5",
   "Web Dev/Javascript": "SiJavascript",
   "Web Dev/Javascript/React": "SiReact",
-  "Web Dev/Javascript/Typescript": "SiTypescript"
+  "Web Dev/Javascript/Typescript": "SiTypescript",
+  "Assets": "FarFile"
 }
