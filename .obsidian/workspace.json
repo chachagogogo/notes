@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lang/C/자료형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f7a028905919bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efa0bac2297b930e",
+  "active": "2f7a028905919bce",
   "lastOpenFiles": [
-    "(포인터 변수.md",
-    "README.md",
-    "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
-    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
-    "Lang/C/문자열.md",
+    "Lang/C/README.md",
     "Lang/C/자료형.md",
-    "Lang/C/널 문자.md",
+    "Lang/C/문자열.md",
     "Lang/C/포인터.md",
+    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
     "Lang/C/Format Specifier.md",
-    "Lang/C/scanf 함수.md"
+    "Lang/C/scanf 함수.md",
+    "Lang/C/널 문자.md",
+    "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
+    "README.md"
   ]
 }
