@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiTypescript",
+      "SiReact",
+      "SiJavascript",
+      "SiHtml5",
+      "SiCss3"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Templates": "FasShapes",
+  "Lang": "RiCode-view",
+  "Lang/C": "SiC",
+  "Web Dev": "FasGlobe",
+  "Web Dev/CSS": "SiCss3",
+  "Web Dev/HTML": "SiHtml5",
+  "Web Dev/Javascript": "SiJavascript",
+  "Web Dev/Javascript/React": "SiReact",
+  "Web Dev/Javascript/Typescript": "SiTypescript"
+}
