@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "Lang/C/널 문자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "210e0d2ee853bba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함수와 포인터.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "함수와 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "함수와 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/C/Format Specifier.md"
+                "file": "함수와 포인터.md"
               }
             }
           },
@@ -167,15 +179,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f7a028905919bce",
+  "active": "210e0d2ee853bba1",
   "lastOpenFiles": [
+    "Lang/C/널 문자.md",
+    "Lang/C/Format Specifier.md",
     "Lang/C/포인터.md",
     "Lang/C/자료형.md",
     "Lang/C/문자열.md",
-    "Lang/C/널 문자.md",
     "Lang/C/scanf 함수.md",
     "Lang/C/README.md",
-    "Lang/C/Format Specifier.md",
     "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
     "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
     "Assets/Pasted image 20230119014452.png"
