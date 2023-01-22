@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "Lang/C/서식문자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac2b1d7474df3770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/C/표준 입출력 함수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "Lang/C/표준 입출력 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lang/C/Format Specifier.md",
+                "file": "Lang/C/표준 입출력 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/C/Format Specifier.md"
+                "file": "Lang/C/표준 입출력 함수.md"
               }
             }
           },
@@ -191,17 +203,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9773cfa32137726",
+  "active": "ac2b1d7474df3770",
   "lastOpenFiles": [
+    "Lang/C/scanf 함수.md",
+    "Lang/C/표준 입출력 함수.md",
+    "Lang/C/서식문자.md",
     "Lang/C/자료형.md",
     "Lang/C/포인터.md",
     "Lang/C/이중 포인터.md",
     "Lang/C/배열 포인터.md",
     "Lang/C/함수 포인터.md",
     "Lang/C/함수와 포인터.md",
-    "Lang/C/포인터 변수.md",
-    "Lang/C/포인터 변수의 크기.md",
-    "Lang/C/널 문자.md",
-    "Lang/C/scanf 함수.md"
+    "Lang/C/포인터 변수.md"
   ]
 }

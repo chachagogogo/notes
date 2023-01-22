@@ -2,7 +2,7 @@
 ## C
 - [자료형](./Lang/C/%EC%9E%90%EB%A3%8C%ED%98%95.md)
 - [널 문자](./Lang/C/%EB%84%90%20%EB%AC%B8%EC%9E%90.md)
-- [Format Specifier](./Lang/C/Format%20Specifier.md)
+- [서식문자](서식문자.md)
 - [포인터](./Lang/C/%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
 - [문자열](./Lang/C/%EB%AC%B8%EC%9E%90%EC%97%B4.md)
 - [포인터 변수](포인터%20변수.md)
