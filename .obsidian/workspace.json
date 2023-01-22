@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d52670e005a2903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/C/2차원 배열.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/C/이중 포인터.md",
+                "file": "Lang/C/2차원 배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lang/C/이중 포인터.md",
+                "file": "Lang/C/2차원 배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/C/이중 포인터.md"
+                "file": "Lang/C/2차원 배열.md"
               }
             }
           },
@@ -167,17 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fac1d190cfe06a2",
+  "active": "6d52670e005a2903",
   "lastOpenFiles": [
-    "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
-    "Lang/C/포인터.md",
-    "Lang/C/포인터 변수의 크기.md",
-    "Lang/C/함수와 포인터.md",
+    "README.md",
+    "Lang/C/Format Specifier.md",
     "Lang/C/자료형.md",
-    "Lang/C/문자열.md",
-    "Lang/C/널 문자.md",
-    "Lang/C/scanf 함수.md",
-    "Lang/C/README.md",
-    "Lang/C/Format Specifier.md"
+    "Lang/C/2차원 배열.md",
+    "Lang/C/(포인터 상수) 상수 형태의 포인터.md",
+    "Lang/C/1차원 배열.md",
+    "Lang/C/(포인터 변수) 변수 형태의 포인터.md",
+    "Lang/C/이중 포인터.md",
+    "Lang/C/포인터.md",
+    "Lang/C/포인터 변수의 크기.md"
   ]
 }
