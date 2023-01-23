@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDatabase",
       "FarFile",
       "FasLanguage",
       "SiTypescript",
-      "SiReact",
-      "SiJavascript"
+      "SiReact"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,6 @@
   "Web Dev/Javascript": "SiJavascript",
   "Web Dev/Javascript/React": "SiReact",
   "Web Dev/Javascript/Typescript": "SiTypescript",
-  "Assets": "FarFile"
+  "Assets": "FarFile",
+  "자료 구조": "FasDatabase"
 }
