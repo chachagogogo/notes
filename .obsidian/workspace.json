@@ -37,26 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
+                "file": "Templates/Table - col 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fff6228092b968c4",
+            "id": "15e59c45d8f85da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Table.md",
+                "file": "Templates/Table - col 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d648c69715135b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Table - col 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2b86bfc0124efee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -192,17 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a782392c018110e7",
+  "active": "f2b86bfc0124efee",
   "lastOpenFiles": [
-    "Templates/Table.md",
+    "Templates/Note Templete.md",
+    "Templates/Table - col 2.md",
+    "Templates/Table - col 5.md",
+    "Templates/Table - col 4.md",
+    "Templates/Table - col 3.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
     "알고리듬/README.md",
     "Lang/Python/자료형.md",
-    "Lang/Python/람다.md",
-    "Lang/Python/입출력 팁.md",
-    "Lang/Python/README.md",
-    "Lang/Python/주요 함수.md",
-    "자료 구조/리스트/링크드 리스트.md"
+    "Lang/Python/람다.md"
   ]
 }
