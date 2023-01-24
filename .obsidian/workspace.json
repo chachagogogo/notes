@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e65acfa72279ba79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f67b4352592af14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md"
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md"
               }
             }
           },
@@ -228,17 +252,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9d2972b6a0eee50",
+  "active": "f67b4352592af14d",
   "lastOpenFiles": [
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
+    "Lang/Python/수행 시간 측정하는 법.md",
+    "알고리듬/README.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
     "Templates/Note Templete.md",
     "Templates/Table - col 2.md",
     "Templates/Table - col 5.md",
-    "Templates/Table - col 4.md",
-    "Templates/Table - col 3.md",
-    "알고리듬/README.md",
-    "Lang/Python/자료형.md"
+    "Templates/Table - col 4.md"
   ]
 }
