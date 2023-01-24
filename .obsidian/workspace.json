@@ -11,11 +11,52 @@
             "id": "67dad77d5853f38b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f4efc8f2b0e29f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a782392c018110e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fff6228092b968c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Table.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md"
+              }
             }
           },
           {
@@ -129,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,17 +192,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67dad77d5853f38b",
+  "active": "a782392c018110e7",
   "lastOpenFiles": [
+    "Templates/Table.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
+    "알고리듬/README.md",
     "Lang/Python/자료형.md",
     "Lang/Python/람다.md",
     "Lang/Python/입출력 팁.md",
     "Lang/Python/README.md",
     "Lang/Python/주요 함수.md",
-    "자료 구조/리스트/링크드 리스트.md",
-    "자료 구조/리스트/README.md",
-    "Lang/C/함수 포인터.md",
-    "Lang/C/표준 입출력 함수.md",
-    "Lang/C/포인터 변수의 크기.md"
+    "자료 구조/리스트/링크드 리스트.md"
   ]
 }
