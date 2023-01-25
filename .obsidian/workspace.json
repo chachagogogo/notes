@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a802dc2c37e77b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md"
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md"
               }
             }
           },
@@ -155,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7b1be49916c8768",
+  "active": "a802dc2c37e77b87",
   "lastOpenFiles": [
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
     "알고리듬/README.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0304 - 1이 될 때까지.md",
     "Lang/Python/수행 시간 측정하는 법.md",
@@ -165,7 +179,6 @@
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
     "Templates/Note Templete.md",
     "Templates/Table - col 2.md",
-    "Templates/Table - col 5.md",
-    "Templates/Table - col 4.md"
+    "Templates/Table - col 5.md"
   ]
 }
