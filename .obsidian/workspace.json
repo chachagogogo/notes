@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md"
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "be53356d8098fb7d",
   "lastOpenFiles": [
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
     "알고리듬/README.md",
@@ -190,7 +191,6 @@
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
-    "Templates/Note Templete.md",
-    "Templates/Table - col 2.md"
+    "Templates/Note Templete.md"
   ]
 }
