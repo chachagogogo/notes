@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d6603039326cb29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md"
+                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md"
               }
             }
           },
@@ -192,8 +204,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89f92b29a7bdc650",
+  "active": "2d6603039326cb29",
   "lastOpenFiles": [
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
@@ -202,7 +215,6 @@
     "Lang/Python/수행 시간 측정하는 법.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0303 - 숫자 카드 게임.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0301 - 당장 좋은 것만 선택하는 그리디.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md",
-    "Templates/Note Templete.md"
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0302 - 큰 수의 법칙.md"
   ]
 }
