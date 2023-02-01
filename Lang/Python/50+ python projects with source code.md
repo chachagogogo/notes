@@ -1,0 +1,1 @@
+https://medium.com/@inprogrammer/50-python-projects-with-source-code-336bd54fea11

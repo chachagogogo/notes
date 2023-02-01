@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd84574504c0b75c",
+        "id": "6c0f832fc4410b81",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b1be49916c8768",
+            "id": "44a8c329ce2f6e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a802dc2c37e77b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be53356d8098fb7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f92b29a7bdc650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6603039326cb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dda2e999d3bd54a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,17 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d487eb774a24eb8",
+  "active": "44a8c329ce2f6e81",
   "lastOpenFiles": [
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
+    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/README.md",
+    "Lang/Python/50+ python projects with source code.md",
     "자료 구조/리스트/README.md",
     "자료 구조/리스트/링크드 리스트.md",
     "자료 구조/README.md",
-    "알고리듬/README.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0502 - 탐색 알고리즘 DFS, BFS.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0501 - 꼭 필요한 자료구조 기초.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0404 - 게임 개발.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0403 - 왕실의 나이트.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md"
+    "알고리듬/README.md"
   ]
 }
