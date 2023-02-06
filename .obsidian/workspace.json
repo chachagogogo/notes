@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13273c7be010202d",
+        "id": "0c521abf7741f6ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a299e9d4403f82b2",
+            "id": "4111bf4b89aa0169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lang/Swift/Int.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lang/Swift/Int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lang/Swift/Int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lang/Swift/Int.md"
+              }
             }
           },
           {
@@ -147,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a299e9d4403f82b2",
+  "active": "4111bf4b89aa0169",
   "lastOpenFiles": [
+    "Lang/Swift/Int.md",
     "Lang/Swift/String.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0401 - 상하좌우.md",
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0402 - 시각.md",
@@ -157,7 +166,6 @@
     "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/README.md",
     "Lang/Python/50+ python projects with source code.md",
     "자료 구조/리스트/README.md",
-    "자료 구조/리스트/링크드 리스트.md",
-    "자료 구조/README.md"
+    "자료 구조/리스트/링크드 리스트.md"
   ]
 }
