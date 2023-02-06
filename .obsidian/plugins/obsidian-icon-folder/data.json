@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSwift",
       "RiTimerFill",
       "SiPython",
       "FasDatabase",
-      "FarFile",
-      "FasLanguage"
+      "FarFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,6 @@
   "Assets": "FarFile",
   "자료 구조": "FasDatabase",
   "Lang/Python": "SiPython",
-  "알고리듬": "RiTimerFill"
+  "알고리듬": "RiTimerFill",
+  "Lang/Swift": "SiSwift"
 }
