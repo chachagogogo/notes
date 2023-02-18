@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "751e2f29c76b5a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lang/Swift/Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/Swift/옵셔널.md",
+                "file": "Lang/Swift/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lang/Swift/옵셔널.md",
+                "file": "Lang/Swift/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/Swift/옵셔널.md"
+                "file": "Lang/Swift/Function.md"
               }
             }
           },
@@ -168,10 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "542a8eb7613b7e45",
+  "active": "751e2f29c76b5a2c",
   "lastOpenFiles": [
-    "Lang/Swift/README.md",
     "Lang/Swift/옵셔널.md",
+    "Lang/Swift/README.md",
     "Lang/Swift/Dictionary.md",
     "Lang/Swift/Tuple.md",
     "Lang/Swift/제어문.md",
