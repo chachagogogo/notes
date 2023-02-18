@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Swift/Data Types.md",
+                "file": "Lang/Swift/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43e18813f2c0ef00",
+            "id": "542a8eb7613b7e45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lang/Swift/범위 연산자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d728e976fc6f206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/Swift/제어문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a919ab4d600cde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lang/Swift/제어문.md",
+                "file": "Lang/Swift/옵셔널.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lang/Swift/제어문.md",
+                "file": "Lang/Swift/옵셔널.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lang/Swift/제어문.md",
+                "file": "Lang/Swift/옵셔널.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lang/Swift/제어문.md"
+                "file": "Lang/Swift/옵셔널.md"
               }
             }
           },
@@ -192,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a919ab4d600cde4",
+  "active": "542a8eb7613b7e45",
   "lastOpenFiles": [
-    "Lang/Swift/분기문.md",
-    "Lang/Swift/제어문.md",
-    "Lang/Swift/범위 연산자.md",
-    "Lang/Swift/Data Types.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0502 - 탐색 알고리즘 DFS, BFS.md",
-    "알고리듬/이것이 취업을 위한 코딩 테스트다 with 파이썬/0601 - 정렬 알고리듬 개요.md",
-    "Lang/Swift/String.md",
+    "Lang/Swift/README.md",
+    "Lang/Swift/옵셔널.md",
     "Lang/Swift/Dictionary.md",
+    "Lang/Swift/Tuple.md",
+    "Lang/Swift/제어문.md",
+    "Lang/Swift/Data Types.md",
     "Lang/Swift/Set.md",
-    "Lang/Swift/Enum.md"
+    "Lang/Swift/Array.md",
+    "Lang/Swift/범위 연산자.md",
+    "Lang/Swift/분기문.md"
   ]
 }
