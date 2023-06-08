@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electron/IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electron/IPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electron/IPC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83b2c3c8e98294f5",
+  "active": "6d487eb774a24eb8",
   "lastOpenFiles": [
+    "Electron/IPC.md",
     "Electron/index.md.md",
     "Lang/C/2차원 배열.md",
-    "Electron/IPC.md",
     "Templates/Table - col 2.md",
     "Electron",
     "Lang/Swift/옵셔널.md",
