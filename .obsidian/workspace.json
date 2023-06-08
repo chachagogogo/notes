@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,9 +201,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "935712064b5c8b2e",
+  "active": "83b2c3c8e98294f5",
   "lastOpenFiles": [
-    "Electron/무제 파일.md",
+    "Electron/index.md.md",
+    "Lang/C/2차원 배열.md",
     "Electron/IPC.md",
     "Templates/Table - col 2.md",
     "Electron",
