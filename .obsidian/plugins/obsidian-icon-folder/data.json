@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiElectron",
       "SiSwift",
       "RiTimerFill",
       "SiPython",
-      "FasDatabase",
-      "FarFile"
+      "FasDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -19,7 +19,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "Templates": "FasShapes",
   "Lang": "FasLanguage",
@@ -34,5 +35,6 @@
   "자료 구조": "FasDatabase",
   "Lang/Python": "SiPython",
   "알고리듬": "RiTimerFill",
-  "Lang/Swift": "SiSwift"
+  "Lang/Swift": "SiSwift",
+  "Electron": "SiElectron"
 }
