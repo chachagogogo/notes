@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3758f5271bd1736",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d487eb774a24eb8",
+  "active": "f3758f5271bd1736",
   "lastOpenFiles": [
     "Electron/IPC.md",
     "Electron/index.md.md",
