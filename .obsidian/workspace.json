@@ -59,9 +59,11 @@
             "id": "f3758f5271bd1736",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230207232935.png"
+                "file": "Lang/Swift/Enum.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230207232935.png",
+                "file": "Lang/Swift/Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230207232935.png",
+                "file": "Lang/Swift/Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230207232935.png"
+                "file": "Lang/Swift/Enum.md"
               }
             }
           },
@@ -212,20 +214,38 @@
   },
   "active": "f3758f5271bd1736",
   "lastOpenFiles": [
-    "Electron/IPC.md",
-    "Electron/index.md.md",
-    "Lang/C/2차원 배열.md",
-    "Templates/Table - col 2.md",
-    "Electron",
-    "Lang/Swift/옵셔널.md",
-    "Lang/Swift/README.md",
     "Lang/Swift/Dictionary.md",
-    "Lang/Swift/Tuple.md",
-    "Lang/Swift/제어문.md",
     "Lang/Swift/Data Types.md",
-    "Lang/Swift/Set.md",
+    "Lang/Swift/Bool.md",
     "Lang/Swift/Array.md",
-    "Lang/Swift/범위 연산자.md",
-    "Lang/Swift/분기문.md"
+    "Lang/Python/주요 함수.md",
+    "Lang/Python/자료형.md",
+    "Lang/Python/입출력 팁.md",
+    "Lang/Python/수행 시간 측정하는 법.md",
+    "Lang/Python/람다.md",
+    "Lang/Python/50+ python projects with source code.md",
+    "Lang/C/함수 포인터.md",
+    "Lang/C/표준 입출력 함수.md",
+    "Lang/C/포인터 변수의 크기.md",
+    "Lang/C/포인터 변수.md",
+    "Lang/C/포인터.md",
+    "Lang/C/자료형.md",
+    "Lang/C/이중 포인터.md",
+    "Lang/C/서식문자.md",
+    "Assets/Pasted image 20230122212250.png",
+    "Assets/Pasted image 20230122212211.png",
+    "Lang/C/배열 포인터.md",
+    "Lang/C/문자열.md",
+    "Lang/C/널 문자.md",
+    "Lang/C/구조체.md",
+    "Lang/C/scanf 함수.md",
+    "Lang/C/README.md",
+    "Lang/C/2차원 배열.md",
+    "Pasted image 20230207233035.png",
+    "Pasted image 20230207233028.png",
+    "Pasted image 20230207232935.png",
+    "Assets/Pasted image 20230119001915.png",
+    "Electron/IPC.md",
+    "Electron"
   ]
 }
